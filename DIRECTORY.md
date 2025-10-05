@@ -192,6 +192,7 @@
     * [Is Rotated Sorted Array](data_structures/arrays/is_rotated_sorted_array.py)
     * [Kth Largest Element](data_structures/arrays/kth_largest_element.py)
     * [Majority Element](data_structures/arrays/majority_element.py)
+    * [Max Subarray Sum](data_structures/arrays/max_subarray_sum.py)
     * [Median Two Array](data_structures/arrays/median_two_array.py)
     * [Monotonic Array](data_structures/arrays/monotonic_array.py)
     * [Pairs With Given Sum](data_structures/arrays/pairs_with_given_sum.py)
