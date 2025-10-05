@@ -188,6 +188,7 @@
     * [Equilibrium Index In Array](data_structures/arrays/equilibrium_index_in_array.py)
     * [Find Triplets With 0 Sum](data_structures/arrays/find_triplets_with_0_sum.py)
     * [Index 2D Array In 1D](data_structures/arrays/index_2d_array_in_1d.py)
+    * [Is Rotated Sorted Array](data_structures/arrays/is_rotated_sorted_array.py)
     * [Kth Largest Element](data_structures/arrays/kth_largest_element.py)
     * [Majority Element](data_structures/arrays/majority_element.py)
     * [Median Two Array](data_structures/arrays/median_two_array.py)
