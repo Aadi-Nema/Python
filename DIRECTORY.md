@@ -292,6 +292,7 @@
     * [Queue By List](data_structures/queues/queue_by_list.py)
     * [Queue By Two Stacks](data_structures/queues/queue_by_two_stacks.py)
     * [Queue On Pseudo Stack](data_structures/queues/queue_on_pseudo_stack.py)
+  * [Reverse Words](data_structures/reverse_words.py)
   * Stacks
     * [Balanced Parentheses](data_structures/stacks/balanced_parentheses.py)
     * [Dijkstras Two Stack Algorithm](data_structures/stacks/dijkstras_two_stack_algorithm.py)
