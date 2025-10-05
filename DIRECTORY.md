@@ -188,6 +188,7 @@
     * [Equilibrium Index In Array](data_structures/arrays/equilibrium_index_in_array.py)
     * [Find Triplets With 0 Sum](data_structures/arrays/find_triplets_with_0_sum.py)
     * [First Missing Positive](data_structures/arrays/first_missing_positive.py)
+    * [Generate Subsets](data_structures/arrays/generate_subsets.py)
     * [Index 2D Array In 1D](data_structures/arrays/index_2d_array_in_1d.py)
     * [Is Rotated Sorted Array](data_structures/arrays/is_rotated_sorted_array.py)
     * [Kth Largest Element](data_structures/arrays/kth_largest_element.py)
